@@ -1,4 +1,5 @@
-# Unit 6 - Pythonic Monopoly
+
+# Pythonic Monopoly
 
 ![Toronto at night](Images/toronto.jpg)
 
@@ -138,5 +139,13 @@ Sample Dashboard:
   ![dashboard-demo.gif](Images/dashboard-demo.gif)
 
 ---
+# Panel Dashboard
+
+<img width="913" alt="1" src="https://user-images.githubusercontent.com/93293695/184501054-274eaaf9-2a08-4bb4-ac67-7b7652044eac.png">
+![2](https://user-images.githubusercontent.com/93293695/184501095-23a6b839-8c6c-4c9e-8e8f-9f9a41b2d39d.png)
+![shelter-costs-vs-house-value](https://user-images.githubusercontent.com/93293695/184501100-cb6acba2-657f-4ace-b76b-6e4ded0f9490.png)
+![4](https://user-images.githubusercontent.com/93293695/184501102-c91f41b7-aadc-43d2-8db3-c93935c5ec36.png)
+![5](https://user-images.githubusercontent.com/93293695/184501103-24a8e8d1-cb68-42ee-a959-35af206abdad.png)
+
 
 
