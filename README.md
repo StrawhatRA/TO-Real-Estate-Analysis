@@ -66,7 +66,7 @@ As an optional challenge, you can plot each line chart in a different colour.
 
 2. Visualize the monthly shelter costs per year as line charts.
 
-    ![gross-rent.png](Images/gross-rent.png)
+    
 
 #### Average House Value per Year
 
@@ -76,7 +76,7 @@ In this section, you want to determine the average house value per year. An inve
 
 2. Visualize the `average_house_value` per year as a line chart.
 
-  ![average-sales.png](Images/average-sales.png)
+  
 
 #### Average Prices By Neighbourhood
 
@@ -88,7 +88,7 @@ In this section, you want to compare the house value by neighbourhood.
 
 **Hint:** Use `hvplot` to obtain the interactive dropdown selector for the neighbourhood.
 
-  ![avg-price-neighbourhood.png](Images/avg-price-neighbourhood.png)
+  
 
 #### Number of Dwelling Types per Year
 
@@ -96,13 +96,13 @@ In this section, you want to visualize the number of dwelling types per year in 
 
 **Hint:** Use `hvplot` to create an interactive visualization of the average number of dwelling types per year with a dropdown selector for the neighbourhood.
 
-![dwelling_types_per_year](Images/dwelling_types_per_year.png)
+
 
 #### Top 10 Most Expensive Neighbourhoods
 
 In this section, you want to figure out which neighbourhoods are the most expensive. You will need to calculate the mean house value for each neighbourhood and then sort the values to obtain the top 10 most expensive neighbourhoods on average. Plot the results as a bar chart.
 
-![top-10-expensive-neighbourhoods.png](Images/top-10-expensive-neighbourhoods.png)
+
 
 #### Neighbourhood Map
 
@@ -110,7 +110,7 @@ In this final section, you will read in neighbourhood location data and build an
 
 Remember that to create maps visualizations using Plotly Express, you will need to create an account at [mapbox](https://www.mapbox.com/) and [create an access token](https://docs.mapbox.com/help/how-mapbox-works/access-tokens/#creating-and-managing-access-tokens).
 
-  ![neighbourhood-map.png](Images/neighbourhood-map.png)
+ 
 
 #### Cost Analysis (Optional Challenge)
 
@@ -120,13 +120,13 @@ Plotly express offers a broad selection of interactive plots. In this optional c
 
     **Hint:** You can learn more about facet plots in Plotly Express in [this link](https://plotly.com/python/facet-plots/).
 
-   ![bar_chart_row](Images/bar_chart_row.png)
+  
 
 2. Create a sunburst chart to conduct a cost analysis of the most expensive neighbourhoods in Toronto per year.
 
     **Hint:** You can learn more about sunburst charts in Plotly Express in [this link](https://plotly.com/python/sunburst-charts/).
 
-    ![sunburst](Images/sunburst.png)
+    
 
 ### Dashboard
 
@@ -134,18 +134,26 @@ Now that you have worked out all of the code and analysis, you will use the Pane
 
 Use the `dashboard.ipynb` starter notebook for your dashboard code. Copy over the code for each visualization and place this into separate functions (1 function per visualization). This will make it easier to build and modify the layout later. Each function should return the plot figure in a format that Panel can use to plot the visualization.
 
-Sample Dashboard:
 
-  ![dashboard-demo.gif](Images/dashboard-demo.gif)
 
 ---
 # Panel Dashboard
 
-<img width="913" alt="1" src="https://user-images.githubusercontent.com/93293695/184501054-274eaaf9-2a08-4bb4-ac67-7b7652044eac.png">
-![2](https://user-images.githubusercontent.com/93293695/184501095-23a6b839-8c6c-4c9e-8e8f-9f9a41b2d39d.png)
-![shelter-costs-vs-house-value](https://user-images.githubusercontent.com/93293695/184501100-cb6acba2-657f-4ace-b76b-6e4ded0f9490.png)
-![4](https://user-images.githubusercontent.com/93293695/184501102-c91f41b7-aadc-43d2-8db3-c93935c5ec36.png)
-![5](https://user-images.githubusercontent.com/93293695/184501103-24a8e8d1-cb68-42ee-a959-35af206abdad.png)
+<img width="913" alt="1" src="https://user-images.githubusercontent.com/93293695/184501155-c1be2ad6-0197-4cf6-b178-7ae3411bea16.png">
+
+![2](https://user-images.githubusercontent.com/93293695/184501158-0c240ad5-a3c1-49e0-afc5-04b71425ec8c.png)
+
+![shelter-costs-vs-house-value](https://user-images.githubusercontent.com/93293695/184501166-dc41d03f-2156-45f9-ad07-4729c626c951.png)
+
+![4](https://user-images.githubusercontent.com/93293695/184501171-e94d293d-c5ea-4b6b-a14e-7d826bf95a4e.png)
+
+![5](https://user-images.githubusercontent.com/93293695/184501174-1bd12743-cf2a-4271-90e0-b28bfa239fd1.png)
+
+
+
+
+
+
 
 
 
