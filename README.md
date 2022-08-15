@@ -1,5 +1,5 @@
 
-# Pythonic Monopoly
+# Toronto Real Estate Analysis
 
 ![Toronto at night](Images/toronto.jpg)
 
